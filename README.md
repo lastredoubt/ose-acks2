@@ -1,11 +1,8 @@
-<p align="center">
-  <a href="https://foundryvtt.com/packages/ose/">
-    <img alt="Unofficial OSE on Foundry VTT logo" src="https://raw.githubusercontent.com/vttred/ose/main/docs/images/old-school-essentials-logo.webp" width="500" />
-  </a>
-</p>
 <h1 align="center">
-  Old-School Essentials – Foundry VTT Edition
+  Acks2 for Foundry VTT 
 </h1>
+<p> Based on "Old-School Essentials – Foundry VTT Edition"</p>
+
 <p align="center">
   <!-- BEGIN TEXT REQUIRED BY LICENSE -->Requires <strong><em>Old-School Essentials</em></strong> Classic Fantasy or Advanced Fantasy.<!-- END TEXT REQUIRED BY LICENSE --> Find the game at <a href="https://necroticgnome.com">Necrotic Gnome's website</a>. Buy <a href="https://www.drivethrurpg.com/browse/pub/5606/Necrotic-Gnome?filters=0_0_0_100073_0&affiliate_id=1488516">Old-School Essentials: Advanced Fantasy and more</a> for Foundry VTT.
 </p>
@@ -17,6 +14,11 @@
 [![Foundry Hub Endorsements](https://img.shields.io/endpoint?logoColor=white&url=https%3A%2F%2Fwww.foundryvtt-hub.com%2Fwp-json%2Fhubapi%2Fv1%2Fpackage%2Fose%2Fshield%2Fendorsements)](https://www.foundryvtt-hub.com/package/ose/)
 [![Foundry Hub Comments](https://img.shields.io/endpoint?logoColor=white&url=https%3A%2F%2Fwww.foundryvtt-hub.com%2Fwp-json%2Fhubapi%2Fv1%2Fpackage%2Fose%2Fshield%2Fcomments)](https://www.foundryvtt-hub.com/package/ose/)
 [![Crowdin](https://badges.crowdin.net/ose/localized.svg)](https://crowdin.com/project/ose)
+
+# Introduction
+
+This is an attempt to update ACKS for Foundry to compatibility with V11, branching off of the OSE foundry project that appears to have been the baseline. All credit for the base version is due to VTTred and his contributors.
+
 
 ## Installation
 
